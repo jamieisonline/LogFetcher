@@ -6,5 +6,4 @@ Simple batch script for troubleshooting. Fetches basic sysinfo, lvl 0, 1 errors 
 2. Double-click it.
 3. Follow the prompts to view the logs.
 
-## Screenshot
 ![buh](https://github.com/jamieisonline/LogFetcher/blob/main/script.png)
